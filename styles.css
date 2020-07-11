@@ -1,0 +1,97 @@
+body{
+    background-color: black;
+    
+}
+#top{
+    background-image: url(images/photo-1449965408869-eaa3f722e40d.jpg);
+   height: 600px;
+   width: 1366px;
+}
+
+   .carousel-inner{
+    height: 500px;
+    width: 1366px;
+    
+   }
+
+  .carosl{
+      margin-left: 90px;
+      margin-right: 60px;
+      
+  }
+   
+
+.login-box{
+    margin-top: 0px;
+    text-align: center;
+    width: 420px;
+    height: 500px;
+    background-color: rgba(0,0,0,0.5);
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+
+#second-div{
+    background-color: black;
+}
+#cards{
+    margin-top: 50px;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+h5{
+    margin-top: 20px;
+    text-align: center;
+}
+#card-heading{
+    height: 100px;
+    text-align: center;
+    padding-top: 40px;
+}
+#car-details{
+    height: 300px;
+   width: 300px;
+
+   margin-top: 50px;
+   margin-left: 50px;
+   
+}
+.title-image{
+    
+    height: 400px;
+    width: 600px;
+}
+    .right-img{
+        margin-top: 30px;
+        position: absolute;
+        right: 60px;
+    }
+    .left-img{
+        margin-top: 20px;
+        position: absolute;
+        left: 60px;
+    }
+    .left-text{
+        height: 400px;
+    width: 600px;
+    }
+    .right-text{
+        height: 400px;
+    width: 600px;
+    position: relative;
+        left: 700px;
+    }
+    p{
+        color: aliceblue;
+    }
+    .last-car{
+        height: 300px;
+        width: 400px;
+    }
