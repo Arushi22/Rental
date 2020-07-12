@@ -8,18 +8,7 @@ body{
    width: 1366px;
 }
 
-   .carousel-inner{
-    height: 500px;
-    width: 1366px;
-    
-   }
-
-  .carosl{
-      margin-left: 90px;
-      margin-right: 60px;
-      
-  }
-   
+  
 
 .login-box{
     margin-top: 0px;
@@ -41,6 +30,7 @@ body{
 }
 #cards{
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 h1{
     color: aliceblue;
@@ -80,18 +70,53 @@ h5{
     }
     .left-text{
         height: 400px;
-    width: 600px;
+    width: 200px;
+    position: relative;
+    left: 70px;
+    margin-top: 130px;
     }
     .right-text{
         height: 400px;
-    width: 600px;
+    width: 200px;
     position: relative;
         left: 700px;
+        margin-top: 130px;
     }
     p{
-        color: aliceblue;
+        color: chartreuse;
     }
     .last-car{
         height: 300px;
         width: 400px;
+    }
+
+    .bottom-row{
+        margin-top: 70px;
+        margin-bottom: 50px;
+    }
+
+    .carousol-margin{
+        margin-left: 60px;
+        margin-right: 60px;
+    }
+
+    .compnay-details{
+        
+        max-height: 500px;
+        background-color: #fff;
+        text-align: center;
+    }
+    img:hover {
+        -moz-transform: translate(-2px, -2px);
+        -ms-transform: translate(-2px, -2px);
+        -o-transform: translate(-2px, -2px);
+        -webkit-transform: translate(-2px, -2px);
+        transform: translate(-2px, -2px);
+    }
+
+    .bottom-images{
+        margin-top: 50px;
+        margin-bottom: 50px;
+        position: relative;
+        left: 590px;
     }
